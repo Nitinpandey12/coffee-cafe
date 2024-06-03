@@ -8,6 +8,7 @@ const Navbar = () => {
         {/* Logo section */}
         <div>
           <a href="#">coffee cafe</a>
+          <a href="#">coffee cafe2</a>
         </div>
         {/* Link section */}
         <div></div>
